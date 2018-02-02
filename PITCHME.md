@@ -15,7 +15,7 @@
 <li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](https://www.wsts.org), 2010)</li>
 <li class="fragment"> lo sviluppo di software <em>embedded</em>  diventa parte integrante del core business di molte aziende "tradizionali" </li>
 
-+++
+---
 
 ### Il ruolo dell'*open source*
 
@@ -33,7 +33,7 @@
   - la combinazione di componenti open source tra loro |
   - la combinazione di software open source con software proprietario |
 
-+++
+---
 
 ### le conseguenze del mancato rispetto delle licenze
 
@@ -49,7 +49,7 @@
   - rapida obsolescenza dei pareri forniti (evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso) |
   - mancata "metabolizzazione" da parte dell'impresa (compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti) |
 
-+++
+---
 
 ### una consulenza che serve all'azienda
 
@@ -69,7 +69,7 @@
   - altre lo consentono senza particolari problemi |
   - quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
 
-+++
+---
 
 ### Una soluzione *smart*
 
@@ -90,7 +90,7 @@
 
 <span class="fragment">**tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**</span>
 
-+++
+---
 
 ### L'analisi legale di un progetto software
 
@@ -109,7 +109,7 @@
 <li class="fragment"> individuazione ed analisi dei testi legali nei codici sorgenti: [Fossology (http://www.fossology.org)](http://www.fossology.org) </li>
 <li class="fragment">i sorgenti non escono mai dall'azienda </li>
 
-+++
+---
 
 ### Open source policy
 
