@@ -31,7 +31,7 @@
 ### Legal Context
 
 - proprietary/custom packages ("own packages") and dependencies of own packages deserve a more in depth analysis than "mere-aggregation" packages
-- conflicts with OSS (Copyleft) licenses are more likely to happen with proprietary/custom packages
+- conflicts with OSS (Copyleft) licenses are more likely to happen with proprietary/custom packages (no public scrutiny)
 
 ---
 
@@ -43,11 +43,13 @@
 - Automatic detection of each binary file's package
 - Mark "own" packages
 - Automatic detection of dependencies of own packages and "mere-aggregation" packages
-- Automatic upload of all packages to FOSSology, divided by project->version->category (own/deps-of-own/mere-aggregation)
+- Automatic upload of all packages to FOSSology, already organized in folders by project->version->category (own/deps-of-own/mere-aggregation)
+- Automatic schedule of FOSSology scan/bulk agents for all packages
 - 
 
-- Let's see it in action
-
+---
+### Let's see it in action
+---
 
 ---
 @title[Copyright and License]
