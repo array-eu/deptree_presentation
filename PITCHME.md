@@ -22,18 +22,31 @@
 
 ---
 
-## Assumptions and principles
+### Technical Context
 
 - Linux Embedded project with custom/proprietary code written in C/C++
 - dependencies: only static and dynamic linking
-- compiling machine should not be even touched (snapshot of Yocto build dir is copied to fossology machine) 
+- don't touch the compiling machine! 
+
+### Legal Context
+
 - proprietary/custom packages ("own packages") and dependencies of own packages deserve a more in depth analysis than "mere-aggregation" packages
-- 
+- conflicts with OSS (Copyleft) licenses are more likely to happen with proprietary/custom packages
 
-
+---
 
 ### How it works, in practice
 
+- Snapshot of Yocto build dir, copied to a dedicated FOSSology machine (with Deptree)
+- Automatic BAT scan
+- Automatic detection of dynamic deps for each binary file
+- Automatic detection of each binary file's package
+- Mark "own" packages
+- Automatic detection of dependencies of own packages and "mere-aggregation" packages
+- Automatic upload of all packages to FOSSology, divided by project->version->category (own/deps-of-own/mere-aggregation)
+- 
+
+- Let's see it in action
 
 
 ---
