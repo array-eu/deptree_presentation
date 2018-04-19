@@ -73,7 +73,7 @@
 - automatic detection of static dependencies
 - license mapping at binary level (and not only at package level)
 - should we use also other license scan tools? Scancode?
-- create own db of licenses and stuff (avoid links to fossology pages)
+- create own db of licenses (SPDX) and stuff (avoid links to fossology pages)
 - a better name?
 
 ---
