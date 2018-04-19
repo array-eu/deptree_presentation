@@ -28,6 +28,8 @@
 - dependencies: only static and dynamic linking
 - don't touch the compiling machine! 
 
+---
+
 ### Legal Context
 
 - proprietary/custom packages ("own packages") and dependencies of own packages deserve a more in depth analysis than "mere-aggregation" packages
@@ -51,6 +53,7 @@
 - Automatic upload of all packages to FOSSology, already organized in folders by project->version->category (own/deps-of-own/mere-aggregation)
 - Automatic schedule of FOSSology scan/bulk agents for all packages (include reuse of previous clearing decisions)
 
+---
 
 ### How it works, in practice (3)
 
