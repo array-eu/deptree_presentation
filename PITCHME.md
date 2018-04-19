@@ -35,21 +35,43 @@
 
 ---
 
-### How it works, in practice
+### How it works, in practice (1)
 
 - Snapshot of Yocto build dir, copied to a dedicated FOSSology machine (with Deptree)
 - Automatic BAT scan
 - Automatic detection of dynamic deps for each binary file
 - Automatic detection of each binary file's package
+
+---
+
+### How it works, in practice (2)
+
 - Mark "own" packages
 - Automatic detection of dependencies of own packages and "mere-aggregation" packages
 - Automatic upload of all packages to FOSSology, already organized in folders by project->version->category (own/deps-of-own/mere-aggregation)
-- Automatic schedule of FOSSology scan/bulk agents for all packages
-- 
+- Automatic schedule of FOSSology scan/bulk agents for all packages (include reuse of previous clearing decisions)
+
+
+### How it works, in practice (3)
+
+- license clearing of deltas with respect to previous versions of the same project
+- manually spot and mark static dependencies
+- Any legal issues?
+- Automatic sync of FOSSology results with Deptree 
+- present results in a simple and meaningful way
 
 ---
 ### Let's see it in action
 ---
+
+---
+### TODO
+
+- automatic snapshot and copy of yocto build dir on FOSSology machine
+- automatic detection of static dependencies
+- license mapping at binary level (and not only at package level)
+- should we use also other license scan tools? Scancode?
+- a better name?
 
 ---
 @title[Copyright and License]
