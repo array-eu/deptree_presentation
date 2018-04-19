@@ -50,7 +50,7 @@
 
 - Mark "own" packages
 - Automatic detection of dependencies of own packages and "mere-aggregation" packages
-- Automatic upload of all packages to FOSSology, already organized in folders by project->version->category (own/deps-of-own/mere-aggregation)
+- Automatic upload of all packages to FOSSology, already organized in folders by project -> version -> category (own/deps-of-own/mere-aggregation)
 - Automatic schedule of FOSSology scan/bulk agents for all packages (include reuse of previous clearing decisions)
 
 ---
