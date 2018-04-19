@@ -22,6 +22,16 @@
 
 ---
 
+## Assumptions and principles
+
+- Linux Embedded project with custom/proprietary code written in C/C++
+- dependencies: only static and dynamic linking
+- compiling machine should not be even touched (snapshot of Yocto build dir is copied to fossology machine) 
+- proprietary/custom packages ("own packages") and dependencies of own packages deserve a more in depth analysis than "mere-aggregation" packages
+- 
+
+
+
 ### How it works, in practice
 
 
