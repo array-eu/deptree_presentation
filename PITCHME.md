@@ -1,5 +1,5 @@
 
-# *Deptree*:
+# Deptree:
 
 <h2 style="color: black;"> Automate OSS Compliance Work in Yocto Projects</h2>
 
