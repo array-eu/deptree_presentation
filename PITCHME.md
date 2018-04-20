@@ -72,7 +72,7 @@
 - continuous integration in the build process 
     - implementation of a full CLI interface  
 - modularity (building block approach) and independency from any specific tool 
-    - define main building block types that are always needed to implement an automatic OSS Compliance (regardless of the specific technical environmeny)
+    - define main building block types that are always needed to implement an automatic OSS Compliance process (regardless of the specific technical environment)
     - implement a db of packages, licenses and SPDX data
 - enable implementation of company's internal OSS policies
 
