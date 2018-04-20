@@ -70,11 +70,11 @@
 ### TODO (1)
 
 - continuous integration in the build process 
-    - implementation of a CLI interface  
-- modularity (building block approach) and independency from any specific tool
-    - implement an internal db of packages, licenses and SPDX data
+    - implementation of a full CLI interface  
+- modularity (building block approach) and independency from any specific tool 
+    - define main building block types that are always needed to implement an automatic OSS Compliance (regardless of the specific technical environmeny)
+    - implement a db of packages, licenses and SPDX data
 - enable implementation of company's internal OSS policies
-    - how? can we describe OSS policies in a standard language, understandable by both humans and software?
 
 ---
 ### TODO (2)
