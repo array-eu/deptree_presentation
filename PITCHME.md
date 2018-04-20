@@ -69,18 +69,18 @@
 ---
 ### TODO
 
-- continuous integration in the build process; 
-- enable implementation of company's internal OSS policies
+- continuous integration in the build process 
+    - implementation of a CLI interface  
 - modularity (building block approach) and independency from any specific tool
-- 
-- 
-- create an internal DB 
+    - implement an internal db of packages, licenses and SPDX data
+- enable implementation of company's internal OSS policies
+    - how? can we describe OSS policies in a standard language, understandable by both humans and software?
 
-- automatic snapshot and copy of yocto build dir on FOSSology machine
-- automatic detection of static dependencies
-- license mapping at binary level (and not only at package level)
-- should we use also other license scan tools? Scancode?
-- create own db of licenses (SPDX) and stuff (avoid links to fossology pages)
+- Yocto-specific building blocks:
+    - automatic snapshot and copy of yocto build dir on FOSSology machine
+    - automatic detection of static dependencies
+    - license mapping at binary level (and not only at package level)
+
 - a better name?
 
 ---
