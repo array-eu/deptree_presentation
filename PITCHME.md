@@ -67,7 +67,7 @@
 ### Let's see it in action
 
 ---
-### TODO
+### TODO (1)
 
 - continuous integration in the build process 
     - implementation of a CLI interface  
@@ -75,6 +75,9 @@
     - implement an internal db of packages, licenses and SPDX data
 - enable implementation of company's internal OSS policies
     - how? can we describe OSS policies in a standard language, understandable by both humans and software?
+
+---
+### TODO (2)
 
 - Yocto-specific building blocks:
     - automatic snapshot and copy of yocto build dir on FOSSology machine
