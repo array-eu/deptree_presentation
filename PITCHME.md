@@ -69,6 +69,13 @@
 ---
 ### TODO
 
+- continuous integration in the build process; 
+- enable implementation of company's internal OSS policies
+- modularity and independency from any specific tool
+-
+- 
+- create an internal DB 
+
 - automatic snapshot and copy of yocto build dir on FOSSology machine
 - automatic detection of static dependencies
 - license mapping at binary level (and not only at package level)
