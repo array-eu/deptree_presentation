@@ -71,8 +71,8 @@
 
 - continuous integration in the build process; 
 - enable implementation of company's internal OSS policies
-- modularity and independency from any specific tool
--
+- modularity (building block approach) and independency from any specific tool
+- 
 - 
 - create an internal DB 
 
