@@ -83,6 +83,9 @@
     - automatic detection of static dependencies
     - automatic mapping of irrelevant files
 
+---
+### TODO (3)
+
 - license mapping at binary level (and not only at package level)
 - enable implementation of company's internal OSS policies
 
