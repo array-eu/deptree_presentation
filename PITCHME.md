@@ -101,6 +101,7 @@ Creative Commons by-ND-NC 4.0 Unported Licence
 
 <p>produced with [Gitpitch](https://gitpitch.com/) and [Reveal.js][81aa3153]</p>
 
+Fossology and Yocto are trademarks of the [Linux Foundation](https://www.linuxfoundation.org/)
 
 
 </div>
