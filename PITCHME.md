@@ -74,8 +74,6 @@
 - modularity (building block approach) and independency from any specific tool 
     - define main building block types that are always needed to implement an automatic OSS Compliance process (regardless of the specific technical environment)
     - implement a db of packages, licenses and SPDX data
-- license mapping at binary level (and not only at package level)
-- enable implementation of company's internal OSS policies
 
 ---
 ### TODO (2)
@@ -84,6 +82,9 @@
     - automatic snapshot and copy of yocto build dir on FOSSology machine
     - automatic detection of static dependencies
     - automatic mapping of irrelevant files
+
+- license mapping at binary level (and not only at package level)
+- enable implementation of company's internal OSS policies
 
 - a better name?
 
