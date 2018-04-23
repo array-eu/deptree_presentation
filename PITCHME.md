@@ -1,7 +1,7 @@
 
 # Deptree:
 
-<h2 style="color: black;"> Automate OSS Compliance Work in Yocto <sup>@fa[registered]</sup> Projects</h2>
+<h2 style="color: black;"> Automate OSS Compliance Work in Yocto <sup style="font-size: 0.7em;">@fa[registered]</sup> Projects</h2>
 
 ---
 
