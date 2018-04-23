@@ -1,13 +1,13 @@
 
 # Deptree:
 
-<h2 style="color: black;"> Automate OSS Compliance Work in Yocto @fa[registered-trademark fa-red] Projects</h2>
+<h2 style="color: black;"> Automate OSS Compliance Work in Yocto @fa[registered-trademark] Projects</h2>
 
 ---
 
-## FOSSology @fa[trademark]
+## FOSSology 
 
-- it is a powerful tool, but many processes must be run manually, file-by-file, package-by-package
+- FOSSology <sup>@fa[trademark]</sup>  is a powerful tool, but many processes must be run manually, file-by-file, package-by-package
 - luckily, there are some CLI tools
 
 ---
