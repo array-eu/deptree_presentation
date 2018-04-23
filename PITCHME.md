@@ -1,13 +1,13 @@
 
 # Deptree:
 
-<h2 style="color: black;"> Automate OSS Compliance Work in Yocto @fa[registered-trademark fa-red] Projects</h2>
+<h2 style="color: black;"> Automate OSS Compliance Work in Yocto<sup style="font-size: 0.6em;">@fa[registered]</sup> Projects</h2>
 
 ---
 
-## FOSSology @fa[trademark]
+## FOSSology 
 
-- it is a powerful tool, but many processes must be run manually, file-by-file, package-by-package
+- FOSSology<sup style="font-size: 0.6em;">@fa[trademark]</sup>  is a powerful tool, but many processes must be run manually, file-by-file, package-by-package
 - luckily, there are some CLI tools
 
 ---
@@ -101,6 +101,7 @@ Creative Commons by-ND-NC 4.0 Unported Licence
 
 <p>produced with [Gitpitch](https://gitpitch.com/) and [Reveal.js][81aa3153]</p>
 
+Fossology and Yocto are trademarks of the [Linux Foundation](https://www.linuxfoundation.org/)
 
 
 </div>
