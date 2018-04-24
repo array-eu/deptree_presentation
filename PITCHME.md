@@ -48,10 +48,12 @@
 
 ### How it works, in practice (2)
 
-<li style="font-size:medium">Mark "own" packages<li>
+<span style="font-size:medium">
+- Mark "own" packages
 - Automatic detection of dependencies of own packages and "mere-aggregation" packages
 - Automatic upload of all packages to FOSSology, already organized in folders by project -> version -> category (own/deps-of-own/mere-aggregation)
 - Automatic schedule of FOSSology scan/bulk agents for all packages (include reuse of previous clearing decisions)
+</span>
 
 ---
 
