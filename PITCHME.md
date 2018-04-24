@@ -48,9 +48,9 @@
 
 ### How it works, in practice (2)
 
-<li style="font-size:x-large">Mark "own" packages</li>
-<li style="font-size:x-large">Automatic detection of dependencies of own packages and "mere-aggregation" packages</li>
-<li style="font-size:x-large">Automatic upload of all packages to FOSSology, already organized in folders by project -> version -> category (own/deps-of-own/mere-aggregation)</li>
+<li style="font-size:xx-large">Mark "own" packages</li>
+<li style="font-size:xx-large">Automatic detection of dependencies of own packages and "mere-aggregation" packages</li>
+<li style="font-size:xx-large">Automatic upload of all packages to FOSSology, already organized in folders by project -> version -> category (own/deps-of-own/mere-aggregation)</li>
 <li style="font-size:x-large">Automatic schedule of FOSSology scan/bulk agents for all packages (include reuse of previous clearing decisions)</li>
 
 ---
@@ -69,11 +69,17 @@
 ---
 ### TODO (1)
 
-- continuous integration in the build process 
-    - implementation of a full CLI interface  
-- modularity (building block approach) and independency from any specific tool 
-    - define main building block types that are always needed to implement an automatic OSS Compliance process (regardless of the specific technical environment)
-    - implement a db of packages, licenses and SPDX data
+<ul>
+    <li style="font-size:xx-large">continuous integration in the build process</li>
+    <ul>
+        <li style="font-size:x-large">implementation of a full CLI interface</li>
+    </ul>
+    <li style="font-size:xx-large">modularity (building block approach) and independency from any specific tool</li>
+    <ul>
+        <li style="font-size:x-large">define main building block types that are always needed to implement an automatic OSS Compliance process (regardless of the specific technical environment)</li>
+        <li style="font-size:x-large">implement a db of packages, licenses and SPDX data</li>
+    </ul>
+</ul>
 
 ---
 ### TODO (2)
